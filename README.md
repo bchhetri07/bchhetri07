@@ -1,7 +1,7 @@
 <h1>Hi, I'm Bibek ! <br/>
   <a href="https://github.com/bchhetri07">Data Analyst</a>,
   <a href="https://www.linkedin.com/in/Bibek Chhetri/"> GoodWill University</a>,
-  <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
 
   
 <h2> Excel Projects:</h2>
