@@ -8,7 +8,9 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
+
 <!---
 bchhetri07/bchhetri07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[Excel - Project.xlsx](https://github.com/bchhetri07/bchhetri07/files/15396147/Excel.-.Project.xlsx)
