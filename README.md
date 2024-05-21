@@ -11,6 +11,7 @@
 <h2> Power BI Projects:</h2>
 ![image](https://github.com/bchhetri07/bchhetri07/assets/170475679/9b02593b-d9ab-4912-a52e-1f72dfe43f76)
 
+![Power BI Project](https://github.com/bchhetri07/bchhetri07/assets/170475679/2a72dba8-2dbd-4fee-8a13-baef12a2bfe1)
 
 <!---
 bchhetri07/bchhetri07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
