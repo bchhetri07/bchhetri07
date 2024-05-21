@@ -1,4 +1,7 @@
-<h1>Hi, I'm Bibek ! <br/><a href="https://github.com/bchhetri07">Data Analyst</a>, <a href="https://www.linkedin.com/in/Bibek Chhetri/"> GoodWill University</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Bibek ! <br/>
+  <a href="https://github.com/bchhetri07">Data Analyst</a>,
+  <a href="https://www.linkedin.com/in/Bibek Chhetri/"> GoodWill University</a>,
+  <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 <h2>:male-technologist: Software Development Projects:</h2>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
