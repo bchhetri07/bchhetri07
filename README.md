@@ -3,9 +3,6 @@
   <a href="https://www.linkedin.com/in/Bibek Chhetri/"> GoodWill University</a>,
 
 
-<h1>Hi, I'm Sukumar <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
-
 <h2>👨‍💻 Working as a Software Developer :</h2>
 
 - <b>Data Engineering summary</b>
@@ -32,7 +29,7 @@
 - <b>Extensive experience in implementation of transformations, Stored Procedures, and execution of test plans for loading the data successfully into the targets.</b>
   
   
-- [My Data EXCEL Project](https://github.com/sukumar8455/Project_1/tree/main)
+- [My Data EXCEL Project](https://github.com/bchhetri07/Excel-Project)
 
 <h2>PROJECT-2</h2>
 
